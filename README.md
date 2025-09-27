@@ -1,4 +1,5 @@
 # Firstproject
 This is my first Git repository
 <br>
-Auther Name -: Soham kokane
+Auther Name -: aditya kokane
+
